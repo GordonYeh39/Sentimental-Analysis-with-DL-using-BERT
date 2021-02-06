@@ -1,6 +1,6 @@
 # Sentimental-Analysis-w-DL-using-BERT
 
-Using Pytorch implement pre-trained base uncased Sentimental Aanalysis on twitter text corpus
+Using Pytorch implement pre-trained base uncased Sentimental Aanalysis on twitter text corpus \n
 Goolge Colab: Cuda GPU (K80)
 Epochs: 10
 Batch: 32
